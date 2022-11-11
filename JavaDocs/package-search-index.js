@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"kwong.inventoryapplication","l":"controller"},{"m":"kwong.inventoryapplication","l":"kwong.inventoryapplication"},{"m":"kwong.inventoryapplication","l":"model"}];updateSearchResults();
