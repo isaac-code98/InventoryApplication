@@ -1,12 +1,18 @@
 # Introduction 
-- This project is an interactive inventory management program in which one can use 
-- Also allows for searching/filtering of robots.
-- Built using Java, JavaFX, SceneBuilder. 
-- Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project is an interactive inventory management program in which a user can add products and parts to the inventory as well as associate parts to a respective product.
+- Built using Java, JavaFX, SceneBuilder.
 
 ## About
-- Utilizes Java principles such as: components, state, useEffect, ErrorBoundrys, and hooks.
+- Utilize concepts such as: class, model, view, controller, inheritance, polymorphism.
+- Allows user to add, modify, and delete parts and products from inventory.
+- Allows for search functionality within inventory of respective parts and products.
 - Screenshots of final product:
+
+<img src="/inv1.png" width="500px" />
+
+<img src="/inv2.png" width="500px" />
+
+<img src="/inv3.png" width="500px" />
 
 ## Build & Usage
 - No special instructions needed for build out.
