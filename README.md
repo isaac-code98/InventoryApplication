@@ -1,7 +1,7 @@
 # Introduction 
 - This project is an interactive inventory management program in which one can use 
 - Also allows for searching/filtering of robots.
-- Built using HTML, CSS, React.
+- Built using Java, JavaFX, SceneBuilder. 
 - Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About

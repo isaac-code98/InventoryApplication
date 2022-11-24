@@ -69,7 +69,6 @@ public class ModifyPartController implements Initializable {
     // Instantiating a selectedPart of the Part class
     public Part selectedPart;
 
-
     /** This method will save a modified part to Inventory granted all the conditions are met and fulfilled.
      This method is extensive in its conditions, checking to make sure that all fields are filled out, accounting for
      non-numeric, numeric values, integer ranges, as well as whether the part is in-house or out-sourced, more of the
