@@ -8,11 +8,11 @@
 - Allows for search functionality within inventory of respective parts and products.
 - Screenshots of final product:
 
-<img src="/inv1.png" width="500px" />
+<img src="/src/inv1.png" width="500px" />
 
-<img src="/inv2.png" width="500px" />
+<img src="/src/inv2.png" width="500px" />
 
-<img src="/inv3.png" width="500px" />
+<img src="/src/inv3.png" width="500px" />
 
 ## Build & Usage
 - No special instructions needed for build out.
